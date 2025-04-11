@@ -58,6 +58,13 @@ Below are some anonymized videos of the AnonSystem operating under different sta
 <br> 
 
 <video width="640" height="360" controls>
+  <source src="{{ '/assets/Eurorack4_blurred.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br> 
+
+<video width="640" height="360" controls>
   <source src="{{ '/assets/Eurorack1.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -78,8 +85,5 @@ Below are some anonymized videos of the AnonSystem operating under different sta
 
 <br> 
 
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/Eurorack4_blurred.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
