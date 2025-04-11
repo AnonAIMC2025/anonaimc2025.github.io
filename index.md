@@ -2,45 +2,59 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+
+## AIMC 2025
+
+Below are some anonymized videos of the AnonSystem operating under different stabilities
+
+### Stability 1: AnonSystem as an autonomous drum accompaniment generator
+
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/AnonVenue1_Blurred.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
 
-## Usage
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/AnonVenue1_Blurred2.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
-### Files
+### Stability 2: AnonSystem as the rhythmic driver of a harmonic accompaniment generator
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/AnonVenue2_1.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-## Example tag usage
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/AnonVenue2_2.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
 
-> blockquotes
+### Stability 3: AnonSystem as a generative multi-channel control voltage sequencer in the Eurorack format
 
-~~~python
-import os,time
-print ("Biscuit")
-~~~
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/Eurorack1.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-## Licence and Author Information
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/Eurorack2_blurred.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/Eurorack3_blurred.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/Eurorack4_blurred.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
