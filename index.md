@@ -12,7 +12,7 @@ Below are some anonymized videos of the AnonSystem operating under different sta
 ---
 
 ### Stability 1
-### AnonSystem as an autonomous drum accompaniment generator
+### Autonomous drum accompaniment generator
 
 <video width="640" height="360" controls>
   <source src="{{ '/assets/AnonVenue1_Blurred.mp4' | relative_url }}" type="video/mp4">
@@ -32,7 +32,7 @@ Below are some anonymized videos of the AnonSystem operating under different sta
 
 
 ### Stability 2
-### AnonSystem as the rhythmic driver of a harmonic accompaniment generator
+### Rhythmic driver of a harmonic accompaniment generator
 
 <br> 
 
@@ -53,7 +53,7 @@ Below are some anonymized videos of the AnonSystem operating under different sta
 ---
 
 ### Stability 3
-### AnonSystem as a generative multi-channel control voltage sequencer in the Eurorack format
+### Generative multi-channel control voltage sequencer in the Eurorack format
 
 <br> 
 
